@@ -39,9 +39,19 @@ Le relazioni tra queste entità sono rappresentate nel diagramma UML delle class
 
 ---
 
-## 📁 Struttura del progetto
-
-plaintext sport-center-manager │ ├── README.md ├── pom.xml └── src/     └── main/         └── java/             ├── Utente.java             ├── Cliente.java             ├── Istruttore.java             ├── Corso.java             ├── Prenotazione.java             ├── Pagamento.java             └── Struttura.java 
-
-Le classi rappresentano le entità principali del dominio del sistema e seguono i principi della Programmazione Orientata agli Oggetti.
+# Struttura del progetto
+gestione centro sportivo 
+│
+├── README.md
+├── pom.xml
+└── src/
+    └── main/
+        └── java/
+            ├── Utente.java
+            ├── Cliente.java
+            ├── Istruttore.java
+            ├── Corso.java
+            ├── Prenotazione.java
+            ├── Pagamento.java
+            └── Struttura.java
 
